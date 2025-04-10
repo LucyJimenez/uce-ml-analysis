@@ -1,0 +1,12 @@
+name: uce-ml-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base>=4.2
+  - r-tidyverse
+  - r-caret
+  - r-xgboost
+  - r-randomforest
+  - r-glmnet
+  - r-proc
