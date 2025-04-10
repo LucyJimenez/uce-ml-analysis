@@ -105,7 +105,7 @@ This work is part of the manuscript:
 ## 👩‍💻 Authors
 
 - **Lucy Jimenez** ([@LucyJimenez](https://github.com/LucyJimenez))
-- In collaboration with Laura Villegas, Joelle van der Spröng, Philipp Schiffer, and others
+- In collaboration with Laura Villegas, Joelle van der Spröng, Oleksand Holovacho, Ann-Marie Waldvoge, and Philipp Schiffer
 
 ---
 
