@@ -83,9 +83,3 @@ This work is part of the manuscript:
 ## 📜 License
 
 [MIT License](LICENSE)
-
----
-
-## 🔒 Repository Status
-
-This repository is currently **private** and will be made public following manuscript acceptance and data deposition.
