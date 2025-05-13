@@ -22,27 +22,11 @@ Nematodes are one of the most diverse metazoan groups, but phylogenetic resoluti
 
 ```bash
 uce-ml-analysis/
-├── README.md                  # this file
+├── README.md
 ├── LICENSE
 ├── .gitignore
-├── environment.yml            # (optional, for future reproducibility)
-├── scripts/                   # R scripts organized by analysis step
-│   ├── 01_prepare_matrix.R
-│   ├── 02_clean_data.R
-│   ├── 03_classification_model.R
-│   └── utils/
-│       └── plotting_functions.R
-├── bash_scripts/              # Bash scripts for data preparation
-│   └── download_data.sh
+├── code/
 ├── data/
-│   ├── raw/                   # original input data
-│   ├── intermediate/          # cleaned/processed data
-│   └── results/               # model outputs and processed results
-├── figures/                   # visualizations
-│   ├── exploratory/
-│   └── final/
-└── reproducibility/
-    └── run_analysis.R         # script to run the full analysis
 ```
 
 ---
@@ -51,46 +35,30 @@ uce-ml-analysis/
 
 - R >= 4.2
 - R packages:
-  - `tidyverse`
-  - `caret`
-  - `xgboost`
-  - `randomForest`
-  - `glmnet`
-  - `pROC`
+  - `tidyverse` (2.0.0)
+  - `caret` (6.0-94)
+  - `xgboost` (1.7.8.1)
+  - `randomForest` (4.7-1.2)
+  - `glmnet` (4.1-8)
+  - `pROC` (1.18.5)
+  - `VennDiagram` (1.7.3)
+  - `stringr` (1.5.1)
+  - `viridis` (0.6.5)
+  - `e1071` (1.7-14)
+  - `data.table` (1.15.4)
+  - `ggpubr` (0.6.0)
+  - `reshape2` (1.4.4)
+  - `pheatmap` (1.0.12)
+  - `abind` (1.4-8)
 
 Install dependencies with:
 
 ```R
-install.packages(c("tidyverse", "caret", "xgboost", "randomForest", "glmnet", "pROC"))
-```
-
----
-
-## 🚀 How to Run the Analysis
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/uce-ml-analysis.git
-cd uce-ml-analysis
-```
-
-2. Launch R and run the main pipeline script:
-
-```R
-source("reproducibility/run_analysis.R")
-```
-
-> 💡 Make sure raw data is placed in `data/raw/` or adjust the paths in the scripts accordingly.
-
----
-
-## 📊 Key Results
-
-- Presence/absence matrices of UCEs were used to train genus-level classifiers
-- XGBoost outperformed other models (AUC ~0.999)
-- Reduced UCE sets (46 for Rhabditidae, 63 for Panagrolaimidae) achieved high classification accuracy
-- Feature selection improved interpretability and reduced dimensionality
+install.packages(c(
+  "tidyverse", "caret", "xgboost", "randomForest", "glmnet", "pROC",
+  "VennDiagram", "stringr", "viridis", "e1071", "data.table",
+  "ggpubr", "reshape2", "pheatmap", "abind"
+))
 
 ---
 
@@ -98,7 +66,10 @@ source("reproducibility/run_analysis.R")
 
 This work is part of the manuscript:
 
-> Villegas, L., Jimenez, L., et al. (2025). *Ultra-conserved elements for phylogenomic analysis in Nematoda.*
+> Villegas, L.I., Jimenez, L., van der Sprong, J., Holovachov, O., Waldvogel, A.-M., & Schiffer, P.H. (2025).  
+> *Ultraconserved elements coupled with machine learning approaches resolve the systematics in model nematode species.*  
+> bioRxiv. https://doi.org/10.1101/2025.05.06.652396  
+> Available at: [https://www.biorxiv.org/content/10.1101/2025.05.06.652396v1](https://www.biorxiv.org/content/10.1101/2025.05.06.652396v1)
 
 ---
 

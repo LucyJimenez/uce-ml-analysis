@@ -1,0 +1,53 @@
+Species,Name
+alt2208_draft,Panagrolaimus sp. alt.22.04
+aro2205_spades,Acrobeloides cf. guoghiensis aro.22.05
+bss8_curated,Neocephalobus halophilus BSS8
+deduped_alt2204_contigs,Panagrolaimus sp. alt.22.04
+deduped_alt2208_contigs,Panagrolaimus sp. alt.22.08
+deduped_ju2834_contigs,Panagrolaimus sp. ju2834
+deduped_ps1579_contigs,Panagrolaimus sp. PS1579
+df5050_spades,Panagrolaimus superbus
+gca_000341325_1_pred3_genomic,Panagrellus redivivus
+gca_009193035_1_mephisto_omega_genomic,Halicephalobus mephisto
+gca_009761265_1_asm976126v1_genomic,Halicephalobus sp. NKZ332
+gca_028622995_1_dd_asm_w20201014_genomic,Panagrolaimus kolymaensis
+gca_034698545_1_asm3469854v1_genomic,Acrobeloides obliquus
+gca_034699885_1_asm3469988v1_genomic,Acrobeloides thornei
+gca_034700925_1_asm3470092v1_genomic,Acrobeloides cf. buchneri
+gca_963922195_1_ps1159_hifi_nanopore_202305_genomic,Panagrolaimus sp. PS1159
+gca_963969345_1_nrturacet1_1_genomic,Turbatrix aceti
+gca_964035985_1_nxpansupe1_1_genomic,Panagrolaimus superbus
+gca_964059925_1_nxprospea1_1_genomic,Propanagrolaimus sp. LC92
+gca_964187885_1_nxpandetr1_1_genomic,Panagrolaimus detritophagus
+gca_964212105_1_nxacrmaxi1_1_genomic,Acrobeloides maximus
+gca_964245515_1_nxpanspec1_1_genomic,Panagrolaimus sp. JU765
+gca_964249645_1_nxpanspeb1_1_genomic,Panagrolaimus sp. ES5
+ju1358_spades,Panagrolaimus sp. ju1358
+ju1365_draft,Panagrolaimus sp. ju1365
+ju1366_draft,Panagrolaimus sp. ju1366
+ju1366_spades,Panagrolaimus sp. ju1366
+ju1367_draft,Panagrolaimus sp. ju1367
+ju1371_draft,Panagrolaimus sp. ju1371
+ju1371_spades,Panagrolaimus sp. ju1371
+ju1387_draft,Panagrolaimus sp. ju1387
+ju1387_spades,Panagrolaimus sp. ju1387
+ju1645_draft,Panagrolaimus sp. ju1645
+ju1645_spades,Panagrolaimus sp. ju1645
+ju1646_spades,Panagrolaimus sp. ju1646
+ju2071_spades,Panagrolaimus sp. ju2071
+ju2212_spades,Panagrolaimus sp. ju2212
+ju2852_spades,Panagrolaimus sp. ju2852
+ju2885_spades,Panagrolaimus sp. ju2885
+lj2284_non_curated,Panagrolaimus sp. lj2284
+lj2285_draft,Panagrolaimus sp. lj2285
+lj2400_draft,Panagrolaimus sp. lj2400
+lj2406_non_curated,Panagrolaimus sp. lj2406
+lj2414_draft,Panagrolaimus sp. lj2414
+pap2217_spades,Acrobeloides tricornis pap.22.17
+pap2229_spades,Panagrolaimus sp. pap22.29
+pap2238_spades,Panagrolaimus sp. pap.22.38
+pap2239_spades,Panagrolaimus sp. pap.22.39
+pbornheim_spades,Panagrolaimus sp. ES5
+ps1579a_curated_softmasked,Panagrolaimus sp. PS1579
+ps1579b_curated_softmasked,Panagrolaimus sp. PS1579
+ps1579c_curated_softmasked,Panagrolaimus sp. PS1579

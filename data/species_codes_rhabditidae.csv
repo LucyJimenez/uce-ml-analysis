@@ -1,0 +1,255 @@
+Species,Name
+GCF_010183535.1,Caenorhabditis remanei
+GCF_000149515.1,Caenorhabditis remanei
+GCF_000004555.2,Caenorhabditis briggsae
+GCF_000002985.6,Caenorhabditis elegans
+GCA_965234135.1,Caenorhabditis sp. BRC20483
+GCA_965234095.1,Caenorhabditis sp. BRC20456
+GCA_965234085.1,Caenorhabditis sp. BRC20456
+GCA_965234065.1,Caenorhabditis sp. BRC20483
+GCA_965231745.1,Caenorhabditis dolens
+GCA_965231735.1,Caenorhabditis dolens
+GCA_965219145.1,Caenorhabditis waitukubuli
+GCA_965218015.1,Caenorhabditis waitukubuli
+GCA_965217795.1,Caenorhabditis agridulce
+GCA_965217555.1,Caenorhabditis agridulce
+GCA_964416725.1,Auanema sp. JU3283
+GCA_964264295.1,Auanema sp. JU3284
+GCA_964264275.1,Oscheius sp. DF5083
+GCA_964264255.1,Oscheius sp. JU1917
+GCA_964264245.1,Oscheius sp. PF1305
+GCA_964264195.1,Oscheius sp. JU992
+GCA_964264185.1,Oscheius sp. JU992
+GCA_964264175.1,Oscheius sp. JU1182
+GCA_964264165.1,Oscheius sp. JU1182
+GCA_964264085.1,Oscheius sp. TWN1964
+GCA_964263935.1,Oscheius sp. TWN1964
+GCA_964263805.1,Oscheius sp. JU75
+GCA_964263765.1,Auanema sp. APS25
+GCA_964263735.1,Oscheius sp. SB194
+GCA_964263715.1,Auanema sp. APS25
+GCA_964263695.1,Auanema sp. JU1809
+GCA_964263365.1,Oscheius sp. TWN1984
+GCA_964261325.1,Oscheius sp. SB194
+GCA_964261265.1,Oscheius sp. JU75
+GCA_964261225.1,Oscheius sp. TWN1984
+GCA_964213925.1,Caenorhabditis angaria
+GCA_964213915.1,Caenorhabditis angaria
+GCA_964212045.1,Caenorhabditis kamaaina
+GCA_964211945.1,Caenorhabditis kamaaina
+GCA_964204725.1,Caenorhabditis sp. DF5070
+GCA_964204685.1,Caenorhabditis sp. DF5070
+GCA_964198135.1,Caenorhabditis quiockensis
+GCA_964198105.1,Caenorhabditis quiockensis
+GCA_964197835.1,Caenorhabditis monodelphis
+GCA_964197825.1,Caenorhabditis monodelphis
+GCA_964057245.1,Auanema rhodensis
+GCA_964057235.1,Oscheius myriophilus
+GCA_964057225.1,Auanema rhodensis
+GCA_964057215.1,Oscheius myriophilus
+GCA_964036275.1,Litoditis marina
+GCA_964036255.1,Caenorhabditis virilis
+GCA_964036215.1,Oscheius sp. DF5033
+GCA_964036205.1,Oscheius sp. DF5033
+GCA_964036175.1,Diploscapter coronatus
+GCA_964036165.1,Caenorhabditis virilis
+GCA_964036155.1,Diploscapter coronatus
+GCA_964036145.1,Litoditis marina
+GCA_964036135.1,Caenorhabditis brenneri
+GCA_963978915.1,Caenorhabditis parvicauda
+GCA_963978825.1,Caenorhabditis parvicauda
+GCA_963966625.1,Caenorhabditis zanzibari
+GCA_963966605.1,Caenorhabditis sulstoni
+GCA_963966575.1,Caenorhabditis zanzibari
+GCA_963966565.1,Caenorhabditis sulstoni
+GCA_963966185.1,Rhabditoides inermis
+GCA_963932405.1,Caenorhabditis macrosperma
+GCA_963932285.1,Caenorhabditis macrosperma
+GCA_963932085.1,Caenorhabditis sinica
+GCA_963932055.1,Caenorhabditis wallacei
+GCA_963932045.1,Caenorhabditis sinica
+GCA_963932035.1,Caenorhabditis wallacei
+GCA_963931815.1,Caenorhabditis plicata
+GCA_963931775.1,Caenorhabditis plicata
+GCA_963921155.1,Caenorhabditis elegans
+GCA_963921145.1,Caenorhabditis elegans
+GCA_963921135.1,Caenorhabditis elegans
+GCA_963921125.1,Caenorhabditis elegans
+GCA_963921115.1,Caenorhabditis elegans
+GCA_963921105.1,Caenorhabditis elegans
+GCA_963921095.1,Caenorhabditis elegans
+GCA_963921085.1,Caenorhabditis elegans
+GCA_963921075.1,Caenorhabditis elegans
+GCA_963921065.1,Caenorhabditis elegans
+GCA_963921055.1,Caenorhabditis elegans
+GCA_963921045.1,Caenorhabditis elegans
+GCA_963921035.1,Caenorhabditis elegans
+GCA_963921025.1,Caenorhabditis elegans
+GCA_963921015.1,Caenorhabditis elegans
+GCA_963921005.1,Caenorhabditis elegans
+GCA_963920995.1,Caenorhabditis elegans
+GCA_963920985.1,Caenorhabditis elegans
+GCA_963920975.1,Caenorhabditis elegans
+GCA_963920965.1,Caenorhabditis elegans
+GCA_963573275.1,Caenorhabditis uteleia
+GCA_963572305.1,Caenorhabditis sp. 8 KK-2011
+GCA_963572295.1,Caenorhabditis drosophilae
+GCA_963572285.1,Caenorhabditis drosophilae
+GCA_963572275.1,Caenorhabditis imperialis
+GCA_963572265.1,Caenorhabditis doughertyi
+GCA_963572255.1,Caenorhabditis doughertyi
+GCA_963572245.1,Caenorhabditis sp. 8 KK-2011
+GCA_963572235.1,Caenorhabditis japonica
+GCA_963572225.1,Caenorhabditis uteleia
+GCA_963572215.1,Caenorhabditis japonica
+GCA_963572205.1,Caenorhabditis imperialis
+GCA_963570955.1,Caenorhabditis afra
+GCA_963570465.1,Caenorhabditis afra
+GCA_958450365.1,Mesorhabditis belari
+GCA_958295435.1,Mesorhabditis spiculigera
+GCA_947459285.1,Caenorhabditis angaria
+GCA_947366455.1,Auanema rhodensis
+GCA_946814055.1,Caenorhabditis sp. 36 PRJEB53466
+GCA_943334845.2,Auanema sp. JU1783
+GCA_932521415.1,Oscheius sp. DF5120
+GCA_932521405.1,Oscheius sp. JU1382
+GCA_932521035.1,Oscheius dolichura
+GCA_932521025.1,Oscheius onirici
+GCA_904845305.1,Caenorhabditis auriculariae
+GCA_902829315.1,Caenorhabditis bovis
+GCA_900883565.2,Caenorhabditis panamensis
+GCA_900883565.1,Caenorhabditis panamensis
+GCA_900631935.1,Mesorhabditis belari
+GCA_900631915.1,Mesorhabditis belari
+GCA_900536415.3,Caenorhabditis sp. 38 MB-2015
+GCA_900536415.2,Caenorhabditis sp. 38 MB-2015
+GCA_900536415.1,Caenorhabditis sp. 38 MB-2015
+GCA_900536345.3,Caenorhabditis sp. 39 LS-2015
+GCA_900536345.2,Caenorhabditis sp. 39 LS-2015
+GCA_900536345.1,Caenorhabditis sp. 39 LS-2015
+GCA_900536325.3,Caenorhabditis sp. 32 LS-2015
+GCA_900536325.2,Caenorhabditis sp. 32 LS-2015
+GCA_900536325.1,Caenorhabditis sp. 32 LS-2015
+GCA_900536315.3,Caenorhabditis becei
+GCA_900536315.2,Caenorhabditis becei
+GCA_900536315.1,Caenorhabditis becei
+GCA_900536305.3,Caenorhabditis sp. 40 LS-2015
+GCA_900536305.2,Caenorhabditis sp. 40 LS-2015
+GCA_900536305.1,Caenorhabditis sp. 40 LS-2015
+GCA_900536295.3,Caenorhabditis sp. 31 LS-2015
+GCA_900536295.2,Caenorhabditis sp. 31 LS-2015
+GCA_900536295.1,Caenorhabditis sp. 31 LS-2015
+GCA_900536285.3,Caenorhabditis sp. 26 LS-2015
+GCA_900536285.2,Caenorhabditis sp. 26 LS-2015
+GCA_900536285.1,Caenorhabditis sp. 26 LS-2015
+GCA_900536275.1,Caenorhabditis panamensis
+GCA_900536235.3,Caenorhabditis sp. 21 LS-2015
+GCA_900536235.2,Caenorhabditis sp. 21 LS-2015
+GCA_900536235.1,Caenorhabditis sp. 21 LS-2015
+GCA_900184235.1,Oscheius tipulae
+GCA_900160655.1,Caenorhabditis elegans
+GCA_046127665.1,Caenorhabditis nigoni
+GCA_045866515.1,Caenorhabditis elegans
+GCA_043792875.1,Caenorhabditis tropicalis
+GCA_039880965.1,Caenorhabditis elegans
+GCA_038088335.1,Mesorhabditis sp. LJ9110
+GCA_037179185.1,Oscheius tipulae
+GCA_037179165.1,Oscheius tipulae
+GCA_037179145.1,Oscheius tipulae
+GCA_037179095.1,Oscheius tipulae
+GCA_037179085.1,Oscheius tipulae
+GCA_037179075.1,Oscheius tipulae
+GCA_037179065.1,Oscheius tipulae
+GCA_037179045.1,Oscheius tipulae
+GCA_037178995.1,Oscheius tipulae
+GCA_037178985.1,Oscheius tipulae
+GCA_037178975.1,Oscheius tipulae
+GCA_037178965.1,Oscheius tipulae
+GCA_037178945.1,Oscheius tipulae
+GCA_037178915.1,Oscheius tipulae
+GCA_037178905.1,Oscheius tipulae
+GCA_037178875.1,Oscheius tipulae
+GCA_037178855.1,Oscheius sp. JU75
+GCA_037178805.1,Oscheius tipulae
+GCA_037178795.1,Oscheius tipulae
+GCA_037178765.1,Oscheius tipulae
+GCA_037178755.1,Oscheius tipulae
+GCA_037024065.1,Caenorhabditis briggsae
+GCA_037024035.1,Caenorhabditis briggsae
+GCA_037024025.1,Caenorhabditis briggsae
+GCA_036852015.1,Pelodera strongyloides
+GCA_034700245.1,Poikilolaimus oxycercus
+GCA_034691345.1,Phasmarhabditis papillosa
+GCA_033458355.1,Caenorhabditis elegans
+GCA_033458345.1,Caenorhabditis elegans
+GCA_030370435.1,Auanema freiburgensis
+GCA_030248285.1,Caenorhabditis elegans
+GCA_029748435.1,Caenorhabditis elegans
+GCA_029581135.1,Caenorhabditis briggsae
+GCA_028201515.1,Caenorhabditis elegans
+GCA_028201415.1,Caenorhabditis elegans
+GCA_027920645.1,Caenorhabditis nigoni
+GCA_027422445.1,Caenorhabditis elegans
+GCA_027422425.1,Caenorhabditis elegans
+GCA_022984815.1,Caenorhabditis elegans
+GCA_022453885.1,Caenorhabditis briggsae
+GCA_022343505.1,Oscheius dolichura
+GCA_022343475.1,Oscheius dolichura
+GCA_022343465.1,Oscheius sp. G VE-2021
+GCA_021491975.1,Caenorhabditis briggsae
+GCA_020450165.1,Caenorhabditis elegans
+GCA_018990105.1,Caenorhabditis remanei
+GCA_018136875.1,Caenorhabditis elegans
+GCA_018136835.1,Caenorhabditis elegans
+GCA_018136805.1,Caenorhabditis elegans
+GCA_018136795.1,Caenorhabditis elegans
+GCA_016989505.1,Caenorhabditis elegans
+GCA_016989455.1,Caenorhabditis elegans
+GCA_016989385.1,Caenorhabditis elegans
+GCA_016989365.1,Caenorhabditis elegans
+GCA_016989295.1,Caenorhabditis elegans
+GCA_016989285.1,Caenorhabditis elegans
+GCA_016989275.1,Caenorhabditis elegans
+GCA_016989245.1,Caenorhabditis elegans
+GCA_016989235.1,Caenorhabditis elegans
+GCA_016989145.1,Caenorhabditis elegans
+GCA_016989125.1,Caenorhabditis elegans
+GCA_016989115.1,Caenorhabditis elegans
+GCA_016989105.1,Caenorhabditis elegans
+GCA_016989095.1,Caenorhabditis elegans
+GCA_016735795.1,Caenorhabditis tropicalis
+GCA_013425905.1,Oscheius tipulae
+GCA_013403715.1,Caenorhabditis elegans
+GCA_010183535.1,Caenorhabditis remanei
+GCA_004526295.1,Caenorhabditis elegans
+GCA_003052745.1,Caenorhabditis inopinata
+GCA_002742825.1,Caenorhabditis nigoni
+GCA_002287525.1,Diploscapter pachys
+GCA_002259235.3,Caenorhabditis latens
+GCA_002259235.2,Caenorhabditis latens
+GCA_002259235.1,Caenorhabditis latens
+GCA_002259225.3,Caenorhabditis remanei
+GCA_002259225.2,Caenorhabditis remanei
+GCA_002259225.1,Caenorhabditis remanei
+GCA_002207785.1,Diploscapter coronatus
+GCA_001643735.4,Caenorhabditis remanei
+GCA_001643735.3,Caenorhabditis remanei
+GCA_001643735.2,Caenorhabditis remanei
+GCA_001643735.1,Caenorhabditis remanei
+GCA_001643685.2,Caenorhabditis nigoni
+GCA_001643685.1,Caenorhabditis nigoni
+GCA_001630785.1,Oscheius sp. TEL-2014
+GCA_001513535.1,Oscheius sp. TEL-2014
+GCA_001483305.2,Caenorhabditis elegans
+GCA_001483305.1,Caenorhabditis elegans
+GCA_000975215.1,Caenorhabditis elegans
+GCA_000939815.1,Caenorhabditis elegans
+GCA_000934875.1,Oscheius sp. MCB
+GCA_000186765.1,Caenorhabditis tropicalis
+GCA_000165025.1,Caenorhabditis angaria
+GCA_000149515.1,Caenorhabditis remanei
+GCA_000147155.1,Caenorhabditis japonica
+GCA_000143925.2,Caenorhabditis brenneri
+GCA_000004555.3,Caenorhabditis briggsae
+GCA_000004555.2,Caenorhabditis briggsae
+GCA_000002985.3,Caenorhabditis elegans

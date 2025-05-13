@@ -1,0 +1,240 @@
+Assembly Accession,Assembly Name,Organism Name,Organism Infraspecific Names Breed,Organism Infraspecific Names Strain,Organism Infraspecific Names Cultivar,Organism Infraspecific Names Ecotype,Organism Infraspecific Names Isolate,Organism Infraspecific Names Sex,Annotation Name,Assembly Level,Assembly Release Date,WGS project accession,Assembly Stats Number of Scaffolds
+GCA_000002985.3,WBcel235,Caenorhabditis elegans,,Bristol N2,,,,,Annotation submitted by C. elegans Sequencing Consortium,Complete Genome,2013-02-07,,6
+GCF_000002985.6,WBcel235,Caenorhabditis elegans,,Bristol N2,,,,,WormBase WS294,Complete Genome,2013-02-07,,6
+GCA_003052745.1,Sp34_v7,Caenorhabditis inopinata,,NKZ35,,,,,,Chromosome,2017-06-22,,6
+GCA_027920645.1,ASM2792064v1,Caenorhabditis nigoni,,JU1421,,,,hermaphrodite,,Chromosome,2023-01-19,,6
+GCA_964036155.1,nxDipCoro1.1,Diploscapter coronatus,,,,,,,,Chromosome,2024-05-12,,2
+GCA_043792875.1,NIC58_v2,Caenorhabditis tropicalis,,,,,"NIC 58,00",,,Chromosome,2024-10-28,JBGGLX01,6
+GCA_963570955.1,nxCaeAfra1.1,Caenorhabditis afra,,,,,,,,Chromosome,2023-10-27,,6
+GCA_932521025.1,nxOscOnir1.1,Oscheius onirici,,,,,,,,Chromosome,2022-03-23,,6
+GCA_963572205.1,nxCaeImpe1.1,Caenorhabditis imperialis,,,,,,,,Chromosome,2023-10-27,,6
+GCA_932521405.1,nxOscSpeu1.1,Oscheius sp. JU1382,,JU1382,,,,,,Chromosome,2022-03-23,,6
+GCA_932521415.1,nxOscSper1.1,Oscheius sp. DF5120,,DF5120,,,,,,Chromosome,2022-03-23,,6
+GCA_963966625.1,nxCaeZanz1.1,Caenorhabditis zanzibari,,,,,,,,Chromosome,2024-02-24,,6
+GCA_963572245.1,nxCaeSpee1.1,Caenorhabditis sp. 8 KK-2011,,,,,,,,Chromosome,2023-10-27,,6
+GCA_000004555.3,CB4,Caenorhabditis briggsae,,AF16,,,,,Annotation submitted by The C.briggsae Sequencing Consortium,Chromosome,2014-07-02,CAAC03,638
+GCF_000004555.2,CB4,Caenorhabditis briggsae,,AF16,,,,,Annotation submitted by The C.briggsae Sequencing Consortium,Chromosome,2014-07-02,CAAC03,638
+GCA_010183535.1,CRPX506,Caenorhabditis remanei,,PX506,,,,pooled males and females,Annotation submitted by University of Oregon,Chromosome,2020-02-10,WUAV01,186
+GCF_010183535.1,CRPX506,Caenorhabditis remanei,,PX506,,,,pooled males and females,Annotation submitted by University of Oregon,Chromosome,2020-02-10,WUAV01,186
+GCA_963932045.1,nxCaeSini1.1,Caenorhabditis sinica,,,,,,,,Chromosome,2024-02-07,CAWVPP01,8
+GCA_964036275.1,nrLitMari1.1,Litoditis marina,,,,,,,,Chromosome,2024-05-12,CAXIWQ01,522
+GCA_964036135.1,CAEBRE_CFB2252,Caenorhabditis brenneri,,CFB2252,,,,,"Annotation submitted by University of Oregon, Institute of Ecology and Evolution",Chromosome,2024-06-06,CAXIWG01,169
+GCA_964213925.1,nxCaeAnga2.1,Caenorhabditis angaria,,,,,,,,Chromosome,2024-08-22,CAXOWA01,7
+GCA_963572235.1,nxCaeJapo1.1,Caenorhabditis japonica,,,,,,,,Chromosome,2023-10-29,CAUYRG01,10
+GCA_963932035.1,nxCaeWall1.1,Caenorhabditis wallacei,,,,,,,,Chromosome,2024-02-07,CAWVPO01,7
+GCA_963573275.1,nxCaeUtel1.1,Caenorhabditis uteleia,,,,,,,,Chromosome,2023-10-29,CAUYJG01,9
+GCA_964197825.1,nxCaeMono1.1,Caenorhabditis monodelphis,,,,,,,,Chromosome,2024-07-08,CAXMXK01,12
+GCA_932521035.1,nxOscDolc1.1,Oscheius dolichura,,,,,,,,Chromosome,2022-03-23,CAKOAU01,14
+GCA_963931815.1,nxCaePlic1.1,Caenorhabditis plicata,,,,,,,,Chromosome,2024-02-06,CAWVOT01,17
+GCA_964036255.1,nxCaeViri1.1,Caenorhabditis virilis,,JU1968,,,,,,Chromosome,2024-05-12,CAXIWO01,17
+GCA_963572285.1,nxCaeDros1.1,Caenorhabditis drosophilae,,,,,,,,Chromosome,2023-10-27,CAUYEI01,9
+GCA_963572265.1,nxCaeDoug1.1,Caenorhabditis doughertyi,,,,,,,,Chromosome,2023-10-29,CAUYEG01,18
+GCA_963932285.1,nxCaeMacr1.1,Caenorhabditis macrosperma,,,,,,,,Chromosome,2024-02-07,CAWVQD01,7
+GCA_964057225.1,nxAuaRhod1.1,Auanema rhodensis,,,,,,,,Chromosome,2024-05-19,CAXKVF01,111
+GCA_002259235.3,ASM225923v3,Caenorhabditis latens,,PX534,,,,,,Chromosome,2023-04-10,NIPN03,37
+GCA_964198105.1,nxCaeQuio2.1,Caenorhabditis quiockensis,,,,,,,,Chromosome,2024-07-12,CAXMYM01,11
+GCA_030370435.1,ASM3037043v1,Auanema freiburgensis,,APS7,,,,,,Chromosome,2023-06-28,JAROKO01,53
+GCA_964036215.1,nxOscSpes1.1,Oscheius sp. DF5033,,DF5033,,,,,,Chromosome,2024-05-12,CAXIWN01,66
+GCA_963966605.1,nxCaeSuls1.1,Caenorhabditis sulstoni,,,,,,,,Chromosome,2024-02-24,CAWZZW01,7
+GCA_964057215.1,nxOscMyri1.1,Oscheius myriophilus,,,,,,,,Chromosome,2024-05-19,CAXKVG01,113
+GCA_963978915.1,nxCaeParv1.1,Caenorhabditis parvicauda,,,,,,,,Chromosome,2024-03-10,CAXBUI01,497
+GCA_037178975.1,ASM3717897v1,Oscheius tipulae,,,,,CEZ-166.1,,,Contig,2024-03-15,JASJZH01,
+GCA_900536315.3,CBECE_v1,Caenorhabditis becei,,QG2083,,,,,,Scaffold,2019-04-11,UNPF02,1565
+GCA_037178855.1,ASM3717885v1,Oscheius sp. JU75,,,,,JU75,,,Contig,2024-03-15,JASJZC01,
+GCA_902829315.1,CBOVIS_v1.1,Caenorhabditis bovis,,,,,,,Annotation submitted by BANG,Contig,2020-04-17,CADEPM01,
+GCA_022343465.1,ASM2234346v1,Oscheius sp. G VE-2021,,,,,PB127,hermaphrodite,,Contig,2022-02-18,JAJQXH01,
+GCA_946814055.1,CNIP,Caenorhabditis sp. 36 PRJEB53466,,NKZ392,,,,,Annotation submitted by University of Miyazaki,Scaffold,2022-09-15,CAMPFS01,10
+GCA_958450365.1,M.belari Hybrid genome bis,Mesorhabditis belari,,JU2817,,,,,Annotation submitted by LBMC UMR5239,Scaffold,2023-07-18,CAUEEP01,939
+GCA_904845305.1,CAUJ,Caenorhabditis auriculariae,,NKZ352,,,,,Annotation submitted by University of Miyazaki,Scaffold,2022-02-18,CAJGYM01,433
+GCA_963966185.1,Rhabditoides_inermis_RS5678,Rhabditoides inermis,,,,,,,,Contig,2024-02-24,CAWZYM01,
+GCA_958295435.1,M.spiculigera Hybrid genome,Mesorhabditis spiculigera,,AF72,,,,,Annotation submitted by LBMC UMR5239,Scaffold,2023-07-06,CATQJA01,2807
+GCA_038088335.1,ASM3808833v1,Mesorhabditis sp. LJ9110,,,,,LJ9110,mixed,,Contig,2024-04-12,JBBGBA01,
+GCA_036852015.1,ASM3685201v1,Pelodera strongyloides,,DF5013,,,,pooled male and female,,Contig,2024-02-23,JAANDG01,
+GCA_900883565.2,CPANA_v1,Caenorhabditis panamensis,,QG2080,,,,,,Scaffold,2019-04-11,CAAHFE01,985
+GCA_900536305.3,CTRIB_v1,Caenorhabditis sp. 40 LS-2015,,JU2818,,,,,,Scaffold,2019-04-11,UNPG02,3276
+GCA_900536415.3,CQUIO_v1,Caenorhabditis sp. 38 MB-2015,,JU2809,,,,,,Scaffold,2019-04-11,UNPQ02,4890
+GCA_943334845.2,JU1783_megahit_v1_1,Auanema sp. JU1783,,JU1783,,,,,Annotation submitted by UNIVERSITY OF WARWICK,Scaffold,2022-11-27,CALQYR02,7511
+GCA_900536285.3,CZANZ_v1,Caenorhabditis sp. 26 LS-2015,,JU2190,,,,,,Scaffold,2019-04-11,UNPC02,3127
+GCA_900536295.3,CUTEL_v1,Caenorhabditis sp. 31 LS-2015,,JU2585,,,,,,Scaffold,2019-04-11,UNPD02,3222
+GCA_002287525.1,DipSp1Ass11Ann3,Diploscapter pachys,,,,,PF1309,,Annotation submitted by New York University,Scaffold,2017-09-07,LIAE01,10775
+GCA_900536325.3,CSULS_v1,Caenorhabditis sp. 32 LS-2015,,JU2788,,,,,,Scaffold,2019-04-11,UNPH02,2044
+GCA_900536235.3,CPARV_v1,Caenorhabditis sp. 21 LS-2015,,"NIC 534,00",,,,,,Scaffold,2019-04-11,UNPB02,5716
+GCA_034691345.1,ASM3469134v1,Phasmarhabditis papillosa,,,,,Gr-Nem-00009,,,Contig,2023-12-27,JAQGAV01,
+GCA_900536345.3,CWAIT_v1,Caenorhabditis sp. 39 LS-2015,,"NIC 564,00",,,,,,Scaffold,2019-04-11,UNPJ02,21203
+GCA_034700245.1,ASM3470024v1,Poikilolaimus oxycercus,,,,,Gr-Nem-00825,,,Contig,2023-12-27,JAQIXL01,
+GCA_000934875.1,ASM93487v1,Oscheius sp. MCB,,,,,MCB,female,,Contig,2015-02-26,JYHL01,
+GCA_001513535.1,ASM151353v1,Oscheius sp. TEL-2014,,TEL-2014,,,,pooled male and female,,Scaffold,2016-01-12,LNBV01,73786
+GCA_028201415.1,ASM2820141v1,Caenorhabditis elegans,,Hawaiian CB4856,,,,hermaphrodite,,Complete Genome,2023-01-29,,6
+GCA_028201515.1,ASM2820151v1,Caenorhabditis elegans,,Bristol N2,,,,hermaphrodite,,Chromosome,2023-01-29,,6
+GCA_020450165.1,ASM2045016v1,Caenorhabditis elegans,,CB4856,,,,mixed,,Chromosome,2021-10-13,,6
+GCA_004526295.1,ASM452629v1,Caenorhabditis elegans,,CB4856,,,,hermaphrodite,,Chromosome,2019-03-31,,6
+GCA_022453885.1,ASM2245388v1,Caenorhabditis briggsae,,,,,VX34,,Annotation submitted by NORTHWESTERN UNIVERSITY,Chromosome,2022-03-03,,6
+GCA_021491975.1,ASM2149197v1,Caenorhabditis briggsae,,,,,QX1410_ONT,,Annotation submitted by NORTHWESTERN UNIVERSITY,Chromosome,2022-01-17,,6
+GCA_029581135.1,ASM2958113v1,Caenorhabditis briggsae,,AF16,,,,hermaphrodite,,Chromosome,2023-04-04,,6
+GCA_013425905.1,ASM1342590v1,Oscheius tipulae,,,,,CEW1,,,Chromosome,2020-07-20,,6
+GCA_964264085.1,nxOscSpef2.1,Oscheius sp. TWN1964,,,,,,,,Chromosome,2024-09-14,,6
+GCA_964264175.1,nxOscSpek2.1,Oscheius sp. JU1182,,JU1182,,,,,,Chromosome,2024-09-15,,6
+GCA_964264275.1,nxOscSpeg2.1,Oscheius sp. DF5083,,,,,,,,Chromosome,2024-09-15,,6
+GCA_000975215.1,Cael_CB4856_1.0,Caenorhabditis elegans,,CB4856,,,,,,Chromosome,2015-04-21,JZEW01,15
+GCA_022984815.1,Ce_DL226,Caenorhabditis elegans,,DL226,,,,pooled male and female,,Chromosome,2022-04-19,JALGCO01,21
+GCA_039880965.1,ASM3988096v1,Caenorhabditis elegans,,UA44,,,,,,Chromosome,2024-05-31,JACBPB01,55
+GCA_029748435.1,ASM2974843v1,Caenorhabditis elegans,,BY250,,,,,,Chromosome,2023-04-18,JACBPA01,44
+GCA_002259225.3,ASM225922v3,Caenorhabditis remanei,,PX439,,,,,,Chromosome,2023-01-09,NMWX03,16
+GCA_001643735.4,ASM164373v4,Caenorhabditis remanei,,PX356,,,,,,Chromosome,2023-01-09,LFJK04,16
+GCA_002742825.1,nigoni.pc_2016.07.14,Caenorhabditis nigoni,,JU1422,,,,,Annotation submitted by Cornell University,Chromosome,2017-11-06,PDUG01,155
+GCA_001643685.2,cn2,Caenorhabditis nigoni,,JU1421,,,,pooled male and female,,Chromosome,2021-08-05,LWKT02,2097
+GCA_016735795.1,Ctrp_NIC203,Caenorhabditis tropicalis,,,,,"NIC 203,00",hermaphrodite,,Chromosome,2021-01-25,JADBCG01,10
+GCA_964264245.1,nxOscSpeb2.1,Oscheius sp. PF1305,,,,,,,,Chromosome,2024-09-15,CAXVYF01,8
+GCA_964261225.1,nxOscSpea2.1,Oscheius sp. TWN1984,,,,,,,,Chromosome,2024-09-07,CAXVOV01,105
+GCA_964264255.1,nxOscSpee2.1,Oscheius sp. JU1917,,,,,,,,Chromosome,2024-09-15,CAXVYG01,29
+GCA_964264295.1,nxAuaSpen2.1,Auanema sp. JU3284,,,,,,,,Chromosome,2024-09-15,CAXVYH01,115
+GCA_964261325.1,nxOscSpeo2.1,Oscheius sp. SB194,,SB194,,,,,,Chromosome,2024-09-07,CAXVPA01,82
+GCA_964263715.1,nxAuaSpee2.1,Auanema sp. APS25,,,,,,,,Chromosome,2024-09-15,CAXVWF01,127
+GCA_964204685.1,nxCaeSpej1.1,Caenorhabditis sp. DF5070,,,,,,,,Chromosome,2024-07-27,CAXNRB01,7
+GCA_964261265.1,nxOscSpeh2.1,Oscheius sp. JU75,,,,,,,,Chromosome,2024-09-07,CAXVOW01,62
+GCA_964263695.1,nxAuaSpej2.1,Auanema sp. JU1809,,,,,,,,Chromosome,2024-09-15,CAXVWG01,358
+GCA_964264185.1,nxOscSpen2.1,Oscheius sp. JU992,,,,,,,,Chromosome,2024-09-15,CAXVXZ01,135
+GCA_963921135.1,QX1791,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEL01,6
+GCA_963921055.1,GXW1,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEA01,6
+GCA_963920975.1,DL238,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUDZ01,6
+GCA_963920995.1,DL200,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEC01,6
+GCA_016989235.1,MY2147_Canu,Caenorhabditis elegans,,MY2147,,,,hermaphrodite,,Contig,2021-02-26,JAFETV01,
+GCA_016989295.1,EG4725_Canu,Caenorhabditis elegans,,EG4725,,,,hermaphrodite,,Contig,2021-02-26,JAFETQ01,
+GCA_016989245.1,JU2600_Canu,Caenorhabditis elegans,,JU2600,,,,hermaphrodite,,Contig,2021-02-26,JAFETT01,
+GCA_963921035.1,PB306,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUDU01,6
+GCA_963921075.1,JU775,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEF01,6
+GCA_963921105.1,AB1,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEI01,6
+GCA_963921115.1,LKC34,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEJ01,6
+GCA_016989365.1,JU1400_Canu,Caenorhabditis elegans,,JU1400,,,,hermaphrodite,,Contig,2021-02-26,JAFETR01,
+GCA_016989105.1,MY2693_Canu,Caenorhabditis elegans,,MY2693,,,,hermaphrodite,,Contig,2021-02-26,JAFETW01,
+GCA_016989455.1,ECA36_Canu,Caenorhabditis elegans,,ECA36,,,,hermaphrodite,,Contig,2021-02-26,JAFETO01,
+GCA_016989115.1,NIC526_Canu,Caenorhabditis elegans,,"NIC 526,00",,,,hermaphrodite,,Contig,2021-02-26,JAFETY01,
+GCA_016989145.1,NIC2_Canu,Caenorhabditis elegans,,"NIC 2,00",,,,hermaphrodite,,Contig,2021-02-26,JAFETX01,
+GCA_963921025.1,N2,Caenorhabditis elegans,,SX3254,,,,,,Scaffold,2024-01-05,CAWUED01,6
+GCA_016989505.1,DL238_Canu,Caenorhabditis elegans,,DL238,,,,hermaphrodite,,Contig,2021-02-26,JAFETN01,
+GCA_016989275.1,JU310_Canu,Caenorhabditis elegans,,JU310,,,,hermaphrodite,,Contig,2021-02-26,JAFETU01,
+GCA_016989385.1,ECA396_Canu,Caenorhabditis elegans,,ECA396,,,,hermaphrodite,,Contig,2021-02-26,JAFETP01,
+GCA_963921155.1,QX1211,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEN01,6
+GCA_963921015.1,PS2025,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEB01,6
+GCA_016989095.1,QX1794_Canu,Caenorhabditis elegans,,QX1794,,,,hermaphrodite,,Contig,2021-02-26,JAFETZ01,
+GCA_963921145.1,CB4856,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEM01,6
+GCA_963921045.1,JT11398,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUDW01,6
+GCA_963921005.1,EG4725,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEE01,6
+GCA_963921065.1,JU751,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUDY01,6
+GCA_963921085.1,ECA248,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEG01,6
+GCA_013403715.1,ASM1340371v1,Caenorhabditis elegans,,,,,JU1395,,,Contig,2020-07-13,JAAXDB01,
+GCA_963920985.1,EG4946,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUDV01,6
+GCA_016989285.1,JU2526_Canu,Caenorhabditis elegans,,JU2526,,,,hermaphrodite,,Contig,2021-02-26,JAFETS01,
+GCA_016989125.1,XZ1516_Canu,Caenorhabditis elegans,,XZ1516,,,,hermaphrodite,,Contig,2021-02-26,JAFEUA01,
+GCA_963920965.1,JU394,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUDX01,6
+GCA_963921125.1,ECA36,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEK01,6
+GCA_963921095.1,MY23,Caenorhabditis elegans,,,,,,,,Scaffold,2024-01-05,CAWUEH01,6
+GCA_027422445.1,ASM2742244v1,Caenorhabditis elegans,,ALT1,,,,mixed,,Contig,2022-12-27,JAPEZO01,
+GCA_027422425.1,ASM2742242v1,Caenorhabditis elegans,,ALT2,,,,mixed,,Contig,2022-12-27,JAPEZN01,
+GCA_033458355.1,ASM3345835v1,Caenorhabditis elegans,,JU1088,,,,,,Contig,2023-11-09,JAWIRO01,
+GCA_033458345.1,ASM3345834v1,Caenorhabditis elegans,,QX1211,,,,,,Contig,2023-11-09,JAWIRP01,
+GCA_030248285.1,ASM3024828v1,Caenorhabditis elegans,,N2,,,,,,Contig,2023-06-09,JASANJ01,
+GCA_018136805.1,ASM1813680v1,Caenorhabditis elegans,,ALT2,,,,mixed,,Contig,2021-04-23,JADPVM01,
+GCA_018136875.1,ASM1813687v1,Caenorhabditis elegans,,ALT1,,,,mixed,,Contig,2021-04-23,JADPVN01,
+GCA_018136835.1,ASM1813683v1,Caenorhabditis elegans,,ALT4,,,,mixed,,Contig,2021-04-23,JADPVK01,
+GCA_018136795.1,ASM1813679v1,Caenorhabditis elegans,,ALT3,,,,mixed,,Contig,2021-04-23,JADPVL01,
+GCA_000939815.1,C_elegans_Bristol_N2_v1_5_4,Caenorhabditis elegans,,N2,,,,,,Contig,2014-09-24,,
+GCA_037024025.1,ASM3702402v1,Caenorhabditis briggsae,,,,,QR24,hermaphrodite,,Contig,2024-03-05,JAYKUB01,
+GCA_037024065.1,ASM3702406v1,Caenorhabditis briggsae,,,,,ED3036,hermaphrodite,,Contig,2024-03-05,JAYKUA01,
+GCA_037024035.1,ASM3702403v1,Caenorhabditis briggsae,,,,,JU439,mixed,,Scaffold,2024-03-05,JAYKUC01,54
+GCA_018990105.1,ASM1899010v1,Caenorhabditis remanei,,EM464,,,,pooled male and female,,Scaffold,2021-06-23,JAFEUY01,320
+GCA_964036145.1,nrLitMari1.1 alternate haplotype,Litoditis marina,,,,,,,,Scaffold,2024-05-11,CAXIWK01,86
+GCA_963932085.1,nxCaeSini1.1 alternate haplotype,Caenorhabditis sinica,,,,,,,,Contig,2024-02-07,CAWVPQ01,
+GCA_947459285.1,CAMP,Caenorhabditis angaria,,,,,PS1010,,Annotation submitted by university of tokyo,Scaffold,2022-12-02,CANHGI01,6
+GCA_963572215.1,nxCaeJapo1.1 alternate haplotype,Caenorhabditis japonica,,,,,,,,Scaffold,2023-10-28,CAUYEE01,807
+GCA_964213915.1,nxCaeAnga2.1 alternate haplotype,Caenorhabditis angaria,,,,,,,,Contig,2024-08-08,CAXOWB01,
+GCA_000143925.2,C_brenneri-6.0.1b,Caenorhabditis brenneri,,PB2801,,,,,Annotation submitted by The Caenorhabditis brenneri Sequencing and Analysis Consortium,Scaffold,2010-11-15,ABEG02,3305
+GCA_000147155.1,C_japonica-7.0.1,Caenorhabditis japonica,,DF5081,,,,,,Scaffold,2010-09-24,ABLE03,18817
+GCA_000165025.1,ps1010rel4,Caenorhabditis angaria,,PS1010,,,,,,Scaffold,2010-10-26,AEHI01,33559
+GCA_037179065.1,ASM3717906v1,Oscheius tipulae,,,,,CEZ-083.6,,,Contig,2024-03-15,JASJZN01,
+GCA_037178915.1,ASM3717891v1,Oscheius tipulae,,,,,CEZ-274.2,,,Contig,2024-03-15,JASJZD01,
+GCA_037179185.1,ASM3717918v1,Oscheius tipulae,,,,,CEZ-047.1,,,Contig,2024-03-15,JASJZQ01,
+GCA_037178995.1,ASM3717899v1,Oscheius tipulae,,,,,CEZ-156.2,,,Contig,2024-03-15,JASJZI01,
+GCA_037179095.1,ASM3717909v1,Oscheius tipulae,,,,,CEZ-107.1,,,Contig,2024-03-15,JASJZM01,
+GCA_037178805.1,ASM3717880v1,Oscheius tipulae,,,,,DF5103,,,Contig,2024-03-15,JASJZA01,
+GCA_037178875.1,ASM3717887v1,Oscheius tipulae,,,,,DF5062,,,Contig,2024-03-15,JASJZB01,
+GCA_037179085.1,ASM3717908v1,Oscheius tipulae,,,,,CEZ-077.3,,,Contig,2024-03-15,JASJZO01,
+GCA_037179045.1,ASM3717904v1,Oscheius tipulae,,,,,CEZ-138.2,,,Contig,2024-03-15,JASJZK01,
+GCA_037179165.1,ASM3717916v1,Oscheius tipulae,,,,,CEZ-010.1,,,Contig,2024-03-15,JASJZR01,
+GCA_037178765.1,ASM3717876v1,Oscheius tipulae,,,,,DF5110,,,Contig,2024-03-15,JASJYZ01,
+GCA_037178905.1,ASM3717890v1,Oscheius tipulae,,,,,CEZ-263.2,,,Contig,2024-03-15,JASJZE01,
+GCA_037178795.1,ASM3717879v1,Oscheius tipulae,,,,,DF5111,,,Contig,2024-03-15,JASJYY01,
+GCA_037178965.1,ASM3717896v1,Oscheius tipulae,,,,,CEZ-224.6,,,Contig,2024-03-15,JASJZG01,
+GCA_037178985.1,ASM3717898v1,Oscheius tipulae,,,,,CEZ-144.4,,,Contig,2024-03-15,JASJZJ01,
+GCA_037178755.1,ASM3717875v1,Oscheius tipulae,,,,,DF5123,,,Contig,2024-03-15,JASJYX01,
+GCA_037179145.1,ASM3717914v1,Oscheius tipulae,,,,,CEZ-061.1,,,Contig,2024-03-15,JASJZP01,
+GCA_037178945.1,ASM3717894v1,Oscheius tipulae,,,,,CEZ-253.1,,,Contig,2024-03-15,JASJZF01,
+GCA_037179075.1,ASM3717907v1,Oscheius tipulae,,,,,CEZ-119.1,,,Contig,2024-03-15,JASJZL01,
+GCA_900184235.1,Oscheius tipulae assembly v2,Oscheius tipulae,,,,,,,,Scaffold,2017-05-22,FXWY01,191
+GCA_002207785.1,ASM220778v1,Diploscapter coronatus,,PDL0010,,,,,,Scaffold,2017-06-12,BBTA01,511
+GCA_963932055.1,nxCaeWall1.1 alternate haplotype,Caenorhabditis wallacei,,,,,,,,Contig,2024-02-07,CAWVPN01,
+GCA_963570465.1,nxCaeAfra1.1 alternate haplotype,Caenorhabditis afra,,,,,,,,Contig,2023-10-26,CAUXXG01,
+GCA_000186765.1,Caenorhabditis_sp11_JU1373-3.0.1,Caenorhabditis tropicalis,,JU1373,,,,,,Scaffold,2011-01-31,AEKS01,665
+GCA_022343475.1,ASM2234347v1,Oscheius dolichura,,,,,DF5000,hermaphrodite,,Contig,2022-02-18,JAJQXF01,
+GCA_022343505.1,ASM2234350v1,Oscheius dolichura,,,,,DF5033,male and female,,Contig,2022-02-18,JAJQXG01,
+GCA_964036165.1,nxCaeViri1.1 alternate haplotype,Caenorhabditis virilis,,JU1968,,,,,,Contig,2024-05-11,CAXIWJ01,
+GCA_963932405.1,nxCaeMacr1.1 alternate haplotype,Caenorhabditis macrosperma,,,,,,,,Contig,2024-02-07,CAWVQC01,
+GCA_963931775.1,nxCaePlic1.1 alternate haplotype,Caenorhabditis plicata,,,,,,,,Contig,2024-02-01,CAWVOS01,
+GCA_963572255.1,nxCaeDoug1.1 alternate haplotype,Caenorhabditis doughertyi,,,,,,,,Contig,2023-10-27,CAUYEF01,
+GCA_964197835.1,nxCaeMono1.1 alternate haplotype,Caenorhabditis monodelphis,,,,,,,,Contig,2024-07-07,CAXMXJ01,
+GCA_963572295.1,nxCaeDros1.1 alternate haplotype,Caenorhabditis drosophilae,,,,,,,,Contig,2023-10-27,CAUYEJ01,
+GCA_963572225.1,nxCaeUtel1.1 alternate haplotype,Caenorhabditis uteleia,,,,,,,,Scaffold,2023-10-27,CAUYED01,106
+GCA_963572275.1,nxCaeImpe1.1 alternate haplotype,Caenorhabditis imperialis,,,,,,,,Contig,2023-10-27,CAUYEH01,
+GCA_900631915.1,M.Belari Hybrid genome,Mesorhabditis belari,,JU2817,,,,,,Contig,2019-03-25,UZWA01,
+GCA_947366455.1,Arhodensis_assembly,Auanema rhodensis,,,,,,,,Scaffold,2022-11-27,CANBAI01,500
+GCA_964036205.1,nxOscSpes1.1 alternate haplotype,Oscheius sp. DF5033,,DF5033,,,,,,Contig,2024-05-11,CAXIWI01,
+GCA_900536275.1,CPANA_v1,Caenorhabditis panamensis,,QG2080,,,,,,Scaffold,2018-09-26,UNPI01,986
+GCA_964204725.1,nxCaeSpej1.1 alternate haplotype,Caenorhabditis sp. DF5070,,,,,,,,Contig,2024-07-27,CAXNRC01,
+GCA_963978825.1,nxCaeParv1.1 alternate haplotype,Caenorhabditis parvicauda,,,,,,,,Scaffold,2024-03-10,CAXBUD01,310
+GCA_964264195.1,nxOscSpen2.1 alternate haplotype,Oscheius sp. JU992,,,,,,,,Scaffold,2024-09-15,CAXVYA01,861
+GCA_964198135.1,nxCaeQuio2.1 alternate haplotype,Caenorhabditis quiockensis,,,,,,,,Contig,2024-07-12,CAXMYN01,
+GCA_964057245.1,nxAuaRhod1.1 alternate haplotype,Auanema rhodensis,,,,,,,,Scaffold,2024-05-18,CAXKVE01,127
+GCA_963572305.1,nxCaeSpee1.1 alternate haplotype,Caenorhabditis sp. 8 KK-2011,,,,,,,,Scaffold,2023-10-28,CAUYEL01,379
+GCA_964263735.1,nxOscSpeo2.1 alternate haplotype,Oscheius sp. SB194,,SB194,,,,,,Scaffold,2024-09-15,CAXVWI01,33
+GCA_963966565.1,nxCaeSuls1.1 alternate haplotype,Caenorhabditis sulstoni,,,,,,,,Contig,2024-02-24,CAWZZX01,
+GCA_964263365.1,nxOscSpea2.1 alternate haplotype,Oscheius sp. TWN1984,,,,,,,,Contig,2024-09-15,CAXVUY01,
+GCA_963966575.1,nxCaeZanz1.1 alternate haplotype,Caenorhabditis zanzibari,,,,,,,,Contig,2024-02-24,CAWZZV01,
+GCA_964057235.1,nxOscMyri1.1 alternate haplotype,Oscheius myriophilus,,,,,,,,Contig,2024-05-18,CAXKVD01,
+GCA_964263765.1,nxAuaSpee2.1 alternate haplotype,Auanema sp. APS25,,,,,,,,Contig,2024-09-15,CAXVWJ01,
+GCA_964263805.1,nxOscSpeh2.1 alternate haplotype,Oscheius sp. JU75,,,,,,,,Contig,2024-09-15,CAXVWP01,
+GCA_900631935.1,M.Belari Hybrid transcriptome,Mesorhabditis belari,,JU2817,,,,,,Contig,2019-03-19,UZWC01,
+GCA_001630785.1,ASM163078v1,Oscheius sp. TEL-2014,,TEL-2014,,,Inbred line 7,pooled male and female,,Scaffold,2016-04-25,LTAH01,132826
+GCA_001483305.2,ASM148330v2,Caenorhabditis elegans,,N2,,,,hermaphrodite,,Scaffold,2017-12-05,LNZE02,2084
+GCA_900160655.1,spades_ilmn_draft_assembly.fasta.gz,Caenorhabditis elegans,,,,,,,,Contig,2017-02-19,FUEF01,
+GCA_000149515.1,ASM14951v1,Caenorhabditis remanei,,PB4641,,,,,Annotation submitted by The Caenorhabditis remanei Sequencing Consortium,Scaffold,2007-07-19,AAGD02,3670
+GCF_000149515.1,ASM14951v1,Caenorhabditis remanei,,PB4641,,,,,Annotation submitted by NCBI RefSeq,Scaffold,2007-07-19,AAGD02,3670
+GCA_964036175.1,nxDipCoro1.1 alternate haplotype,Diploscapter coronatus,,,,,,,,Contig,2024-05-11,CAXIWH01,
+GCA_964263935.1,nxOscSpef2.1 alternate haplotype,Oscheius sp. TWN1964,,,,,,,,Contig,2024-09-15,CAXVWS01,
+GCA_964264165.1,nxOscSpek2.1 alternate haplotype,Oscheius sp. JU1182,,JU1182,,,,,,Contig,2024-09-15,CAXVXY01,
+GCA_000004555.2,,Caenorhabditis briggsae AF16,,,,,,,,,,,
+GCA_001483305.1,,Caenorhabditis elegans,,,,,,,,,,,
+GCA_001643685.1,,Caenorhabditis nigoni,,,,,,,,,,,
+GCA_001643735.1,,Caenorhabditis remanei,,,,,,,,,,,
+GCA_001643735.2,,Caenorhabditis remanei,,,,,,,,,,,
+GCA_001643735.3,,Caenorhabditis remanei,,,,,,,,,,,
+GCA_002259225.1,,Caenorhabditis remanei,,,,,,,,,,,
+GCA_002259225.2,,Caenorhabditis remanei,,,,,,,,,,,
+GCA_002259235.1,,Caenorhabditis latens,,,,,,,,,,,
+GCA_002259235.2,,Caenorhabditis latens,,,,,,,,,,,
+GCA_900536235.1,,Caenorhabditis sp. 21,,,,,,,,,,,
+GCA_900536235.2,,Caenorhabditis sp. 21 LS-2015,,,,,,,,,,,
+GCA_900536285.1,,Caenorhabditis sp. 26,,,,,,,,,,,
+GCA_900536285.2,,Caenorhabditis sp. 26 LS-2015,,,,,,,,,,,
+GCA_900536295.1,,Caenorhabditis sp. 31,,,,,,,,,,,
+GCA_900536295.2,,Caenorhabditis sp. 31 LS-2015,,,,,,,,,,,
+GCA_900536305.1,,Caenorhabditis sp. 40,,,,,,,,,,,
+GCA_900536305.2,,Caenorhabditis sp. 40 LS-2015,,,,,,,,,,,
+GCA_900536315.1,,Caenorhabditis becei,,,,,,,,,,,
+GCA_900536315.2,,Caenorhabditis becei,,,,,,,,,,,
+GCA_900536325.1,,Caenorhabditis sp. 32,,,,,,,,,,,
+GCA_900536325.2,,Caenorhabditis sp. 32 LS-2015,,,,,,,,,,,
+GCA_900536345.1,,Caenorhabditis sp. 39,,,,,,,,,,,
+GCA_900536345.2,,Caenorhabditis sp. 39 LS-2015,,,,,,,,,,,
+GCA_900536415.1,,Caenorhabditis sp. 38,,,,,,,,,,,
+GCA_900536415.2,,Caenorhabditis sp. 38 MB-2015,,,,,,,,,,,
+GCA_900883565.1,,Caenorhabditis panamensis,,,,,,,,,,,
